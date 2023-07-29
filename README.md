@@ -47,8 +47,11 @@ for directed graph
 5 6
 6 7
 */
-```
+
 you can check the graph from below link
-![image](https://github.com/Akash242099/GRAPH-SERIES/assets/52275484/84620d42-bd25-451f-93a3-ee633bd16ee6)
+```
+<img align="right" width="100" height="100" src="https://github.com/Akash242099/GRAPH-SERIES/assets/52275484/84620d42-bd25-451f-93a3-ee633bd16ee6">
+
+
 keep learning
 hurraaaah
