@@ -3,8 +3,8 @@
 
 this is just sample form taking input for graph for any cp question or DSA related question
 
-NORMAL GRAPH QUESTIONS INPUT TEMPLATE
-
+**NORMAL GRAPH QUESTIONS INPUT TEMPLATE**
+```
  int helper(vector<vector<int>> edges,int n) {
         int m=edges.size();
         vector<int>adj[n];
@@ -12,10 +12,7 @@ NORMAL GRAPH QUESTIONS INPUT TEMPLATE
         for(int i=0;i<m;i++){
             adj[edges[i][0]].push_back(edges[i][1]);
         }
-
-
         write logic here
-
  }
 int main() {
 	int n,m;
@@ -26,14 +23,9 @@ int main() {
 		int p,q;
 		cin>>p>>q;
 		edges.push_back({p,q});
-	}
-	//cout<<edges.size();
-	
-cout<<helper(edges,n);
-	
+	}	
+cout<<helper(edges,n);	
 }
-
-
 
 /*
 input format
@@ -55,6 +47,7 @@ for directed graph
 5 6
 6 7
 */
+```
 you can check the graph from below link
 ![image](https://github.com/Akash242099/GRAPH-SERIES/assets/52275484/84620d42-bd25-451f-93a3-ee633bd16ee6)
 keep learning
