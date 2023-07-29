@@ -50,7 +50,7 @@ for directed graph
 
 you can check the graph from below link
 ```
-<img align="right" width="100" height="100" src="https://github.com/Akash242099/GRAPH-SERIES/assets/52275484/84620d42-bd25-451f-93a3-ee633bd16ee6">
+<img align="center" width="500" height="500" src="https://github.com/Akash242099/GRAPH-SERIES/assets/52275484/84620d42-bd25-451f-93a3-ee633bd16ee6">
 
 
 keep learning
