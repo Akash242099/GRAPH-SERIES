@@ -14,7 +14,7 @@ NORMAL GRAPH QUESTIONS INPUT TEMPLATE
         }
 
 
-     //   write logic here
+        write logic here
 
  }
 int main() {
